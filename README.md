@@ -68,7 +68,7 @@ If you have questions or requests related to privacy, please contact the bot dev
 
 Discord: @YourUsernameHere
 
-Email: youremail@example.com (Replace this with your actual contact info)
+Email: redaaur630@gmail.com (Replace this with your actual contact info)
 
 8. Changes to This Policy
 We may update this Privacy Policy from time to time. Changes will be announced via the bot’s support server or command line notification.
